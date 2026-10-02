@@ -117,3 +117,7 @@ clinic-react/
 ## License
 
 MIT
+
+---
+
+**Built by [Girish Lade](https://ladestack.in)** — part of the [LadeStack](https://ladestack.in) family of free, open-source tools.
